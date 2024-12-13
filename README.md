@@ -3,6 +3,7 @@ Clone the repo.
 
 ## Setting up
 Run npm install in both the root and /backend.
+( I included .env file here only for this time. )
 
 ## Starting Project
 Run npm install in both the root and /backend.
