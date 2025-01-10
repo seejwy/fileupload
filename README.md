@@ -34,7 +34,4 @@ Performance assumption:
 1. The data will not be too large and this solution is optimized for that size.
 
 Time constraints
-1. There was not enough time for me to complete. 
-2. Not mobile responsive.
-3. I focused on eliminating prop drilling and containing business logic in only necessary components.
-
+1. Not mobile responsive.
