@@ -35,3 +35,8 @@ Performance assumption:
 
 Time constraints
 1. Not mobile responsive.
+
+## Changes
+1. All page calls now hit the server for response
+2. Data can now be viewed by navigating the pages
+3. Users now can see how many records they have
